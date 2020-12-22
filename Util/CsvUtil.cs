@@ -16,6 +16,7 @@ namespace ReadCSV.Util
         public static string[,] CsvToTwoArray(string path, out int x, out int y)
         {
             FileStream stream = new FileStream(path, FileMode.Open, FileAccess.Read);
+            //Encoding.Default为ansi编码格式，csv默认为ansi编码格式
             StreamReader reader = new StreamReader(stream, Encoding.Default);
             List<string> list = new List<string>();
             //将csv数组存到List
