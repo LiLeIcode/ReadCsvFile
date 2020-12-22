@@ -1,0 +1,7 @@
+D:\Csharpworkspace\OPC\OPC\ReadCSV\bin\Debug\ReadCSV.exe.config
+D:\Csharpworkspace\OPC\OPC\ReadCSV\bin\Debug\ReadCSV.exe
+D:\Csharpworkspace\OPC\OPC\ReadCSV\bin\Debug\ReadCSV.pdb
+D:\Csharpworkspace\OPC\OPC\ReadCSV\obj\Debug\ReadCSV.csprojAssemblyReference.cache
+D:\Csharpworkspace\OPC\OPC\ReadCSV\obj\Debug\ReadCSV.csproj.CoreCompileInputs.cache
+D:\Csharpworkspace\OPC\OPC\ReadCSV\obj\Debug\ReadCSV.exe
+D:\Csharpworkspace\OPC\OPC\ReadCSV\obj\Debug\ReadCSV.pdb
